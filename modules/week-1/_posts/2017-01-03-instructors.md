@@ -1,5 +1,4 @@
 <h1>Instructors</h1>
-</BR>
 </BR><b>Maintained by: </b>[Grace Smith]<BR>
 Grace Smith maintains this course. Please contact Grace for problems.
 <BR><BR><BR>
