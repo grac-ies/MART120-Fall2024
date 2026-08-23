@@ -66,8 +66,7 @@ There also will many code examples. Also, there will always be download buttons 
   
     </li>
     <li>
-        <p><a href="mailto:michael.cassens@umontana.edu?subject=120%20Question">michael.cassens@umontana.edu</a></p>
-        <a href="https://calendly.com/michael-cassens/120-meeting" target="_blank">Set up a Meeting</a>
+        <p><a href="mailto:gs172738@umconnect.umt.edu?subject=120%20Question">michael.cassens@umontana.edu</a></p>
     </li>
     </ul>
 </li>
