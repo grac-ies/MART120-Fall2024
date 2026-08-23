@@ -58,15 +58,15 @@ There also will many code examples. Also, there will always be download buttons 
     </ul>
 </li>
 
-<li>Get help from Rachel Cronk-- use me! That's why I am here!
+<li>Get help from Grace Smith-- use me! That's why I am here!
     <ul>
-    <li>If you have a problem, please contact me.  I am in my office a lot beyond my office hours, and I can work through Zoom, Discord, and email.  Let me know! My email is <b>rc231396@umconnect.umt.edu</b> -- please reach out if you need help!
+    <li>If you have a problem, please contact me.  I am in my office a lot beyond my office hours, and I can work through Zoom, Discord, and email.  Let me know! My email is <b>gs1727386@umconnect.umt.edu</b> -- please reach out if you need help!
     </li>
     <li>One way to get a hold of me is to swing by my weekly office hours. I am available Monday, Wednesday and Friday from 12:30pm - 3:30pm, and can schedule meetings with you outside of those hours if those don't work for you.
   
     </li>
     <li>
-        <p><a href="mailto:gs172738@umconnect.umt.edu?subject=120%20Question">michael.cassens@umontana.edu</a></p>
+        <p><a href="mailto:gs172738@umconnect.umt.edu?subject=120%20Question">my email!</a></p>
     </li>
     </ul>
 </li>
