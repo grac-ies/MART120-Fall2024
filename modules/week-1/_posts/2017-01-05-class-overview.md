@@ -37,7 +37,7 @@ There also will many code examples. Also, there will always be download buttons 
 </div>
 <div id="Dates" class="tabcontent">
 <p>Currently, I am planning on having weekly "modules" run from Monday to Sunday.</p>
-<p>Homework will be due on Mondays at 11:59 pm, giving you the weekend to work on the projects.</p>
+<p>Homework will be due on sundays at 11:59 pm, giving you the weekend to work on the projects.</p>
 </div>
 <div id="Homework" class="tabcontent">
 <p>The course website will be a <b>Homework</b> section, and it should mirror the submission located on Moodle.  Let me know if that is not the case!</p>
