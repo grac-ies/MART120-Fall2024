@@ -16,7 +16,7 @@ module: 2
 
 <p><a href="//www.youtube.com/embed/ji5_MqicxSo" data-lity>Last Lecture Video</a></p>
 
-<p>How did it make you feel?  Could you relate?  Take note of your thoughts on this.  Please put those thoughts into writing this week.  The reflection paper is part of your <strong>homework</strong> this week.</p>
+<p>How did it make you feel?  Could you relate?</p>
 </div>
 <div id="References" class="tabcontent">
 
