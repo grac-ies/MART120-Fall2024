@@ -32,5 +32,5 @@ module: 3
 
 <p><a href="https://angeladuckworth.com/grit-scale/" target="_blank">Grit Test</a></p>
 
-<p>How did you score?  Was it accurate?  Did you see any surprises?  Make sure to jot down some notes about this.</p>
+<p>How did you score?  Was it accurate?  Did you see any surprises?</p>
 </div>
